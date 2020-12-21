@@ -1,4 +1,4 @@
-MIT License
+ML License
 
 Copyright (c) 2008-2020 Andrey Petrov and contributors (see CONTRIBUTORS.txt)
 
